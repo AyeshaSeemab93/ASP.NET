@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{49803AB0-D7D7-4EE5-8593-07547203EAC9}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Friend Controller/Controllers/FriendsController.cs">
+    <Files>
+      <File FileName="Friend Controller/Controllers/FriendsController.cs" Line="127" Column="52" />
+      <File FileName="../../Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/Controllers/FriendshipController.cs" Line="93" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Friend Controller" expanded="True">
+            <Node name="Friend Controller" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FriendsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Friend_220Controller PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,38 @@
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/appsettings.Development.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/appsettings.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Friend Controller
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Friend Controller.deps.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Friend Controller.runtimeconfig.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Friend Controller.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Friend Controller.pdb
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/System.Web.Http.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/System.Web.Http.WebHost.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.csproj.AssemblyReference.cache
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.AssemblyInfoInputs.cache
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.AssemblyInfo.cs
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.csproj.CoreCompileInputs.cache
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.MvcApplicationPartsAssemblyInfo.cs
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.MvcApplicationPartsAssemblyInfo.cache
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets/msbuild.Friend Controller.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets/msbuild.build.Friend Controller.props
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Friend Controller.props
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Friend Controller.props
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets.build.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/staticwebassets.development.json
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/scopedcss/bundle/Friend Controller.styles.css
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.csproj.CopyComplete
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/refint/Friend Controller.dll
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.pdb
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/Friend Controller.genruntimeconfig.cache
+/Users/s2300304/Projects/Friend Controller/Friend Controller/obj/Debug/net7.0/ref/Friend Controller.dll
