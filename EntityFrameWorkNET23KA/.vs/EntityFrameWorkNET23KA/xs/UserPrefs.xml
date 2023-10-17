@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{DA1D3F08-3154-4E99-BC03-5F0BFC97199F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EntityFrameWorkNET23KA FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFrameWorkNET23KA/Program.cs">
+    <Files>
+      <File FileName="EntityFrameWorkNET23KA/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFrameWorkNET23KA" expanded="True">
+            <Node name="EntityFrameWorkNET23KA" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EntityFrameWorkNET23KA PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
